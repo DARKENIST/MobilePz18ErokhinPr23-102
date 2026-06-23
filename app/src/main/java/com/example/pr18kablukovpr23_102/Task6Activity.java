@@ -1,4 +1,4 @@
-package com.example.pr18kablukovpr23_102;
+package com.example.mobilepz18erokhinpr23_102;
 
 import android.content.Intent;
 import android.database.Cursor;
